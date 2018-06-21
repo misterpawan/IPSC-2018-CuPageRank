@@ -1,2 +1,3 @@
 # IPSC-2018-CuPageRank
-Implement Page Rank Algorithm using CUDA
+Authors: Gaurav Mahajan, Kshitij Shukla
+Implemented as part of IPSC course.
